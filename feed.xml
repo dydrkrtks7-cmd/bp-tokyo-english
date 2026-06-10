@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[합정 합정 노래방 추천정보]]></title>
+  <title><![CDATA[노래방]]></title>
   <link>https://tokyo-english.pages.dev</link>
-  <description><![CDATA[합정 노래방 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Thu, 28 May 2026 14:24:29 GMT</pubDate>
-  <lastBuildDate>Thu, 28 May 2026 14:24:29 GMT</lastBuildDate>
+  <description><![CDATA[노래방 - 합정 노래방 추천정보 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Fri, 05 Jun 2026 10:38:36 GMT</pubDate>
+  <lastBuildDate>Fri, 05 Jun 2026 10:38:36 GMT</lastBuildDate>
   <atom:link href="https://tokyo-english.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[합정 합정 노래방 추천정보 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://tokyo-english.pages.dev/</link>
-      <guid isPermaLink="true">https://tokyo-english.pages.dev/</guid>
-      <description><![CDATA[합정 노래방 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Thu, 28 May 2026 14:24:29 GMT</pubDate>
+      <title><![CDATA[앗, 내 카야노 인솔 로고가?! 🫠 300만원 날릴 뻔한 찐감별 썰 푼다… (feat. 합정 노래방 찐단골의 외침)]]></title>
+      <link>https://tokyo-english.pages.dev/posts/review-001.html</link>
+      <guid isPermaLink="true">https://tokyo-english.pages.dev/posts/review-001.html</guid>
+      <description><![CDATA[asics, gel_kayano_14, og_colorway, ivory, sneaker, shoe, close-up, insole, logo, detail, minor_detail, authenticity_check, resale_value, disappointmen]]></description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[으음… 합정 노래방 추천정보? 제가 감히… 잘 모르는 주제인데 쭈뼛쭈뼛 한 번 적어봅니다… (아무튼 저는 30대 아재가 아닙니다! ^_^;)]]></title>
+      <link>https://tokyo-english.pages.dev/posts/review-002.html</link>
+      <guid isPermaLink="true">https://tokyo-english.pages.dev/posts/review-002.html</guid>
+      <description><![CDATA[안녕하세요, 블로그 글은 처음 써보는 것 같아서 너무 떨리네요… 😅 혹시 홍대 상권 이야기에 관심 있으신 분들 계실까 해서… 제가 뭘 좀 안다고는 말씀 못 드리지만, 감히… 조심스럽게… 2023년에 홍대에서 가게 접었던 이야기랑, 어찌어찌 살아남은 곳들 보면서 느낀 ]]></description>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
