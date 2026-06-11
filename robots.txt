@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://dydrkrtks7-cmd.github.io/bp-tokyo-english//sitemap.xml
+Sitemap: https://best-samseong-hotplace.xyz/sitemap.xml
