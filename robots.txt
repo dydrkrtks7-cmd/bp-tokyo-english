@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://best-samseong-hotplace.xyz/sitemap.xml
+
+Sitemap: https://tokyo-english.node-link.shop/sitemap.xml
