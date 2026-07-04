@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tokyo-english.node-link.shop/sitemap.xml
+Sitemap: https://hapjeong-song-spot.node-link.shop/sitemap.xml
