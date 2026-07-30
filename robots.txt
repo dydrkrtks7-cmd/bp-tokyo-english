@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://best-samseong-hotplace.xyz/sitemap.xml
+Sitemap: https://best-samseong-hotplace.xyz/sitemap-pages.xml
 Sitemap: https://best-samseong-hotplace.xyz/sitemap-index.xml
